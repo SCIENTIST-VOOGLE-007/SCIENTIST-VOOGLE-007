@@ -7,15 +7,17 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Wp3hAHHkS6WucqVaft/giphy.gif" width="320" alt="AI and Coding GIF"/>
+  <img src="https://in.pin/" width="320" alt=""/>
 </p>
+
 
 ---
 
 ## 💡 About Me
 
 I’m Vedhapriyaa, a **passionate problem solver** and tech enthusiast who thrives on **solving real-world problems** through **creative ideation** and impactful engineering.  
-I don’t limit myself to one domain — if a problem is deep, urgent, or unsolved, I dive in. But areas like **AI, Data Science, Robotics, Neuroscience, Linguistics**, and **Psychology** ignite a special curiosity in me. 🔍
+I don’t limit myself to one domain — if a problem is deep, urgent, or unsolved, I dive in. But areas like,
+**AI, Data Science, Robotics, Neuroscience, Linguistics**, and **Psychology** ignite a special curiosity in me. 🔍
 
 🧠 I'm intrigued by the *why* behind things — whether it’s data behavior, human behavior, or intelligent systems.  
 💬 As a **polyglot**, I see patterns in both code and communication, and I love exploring both.
@@ -44,30 +46,6 @@ Here’s my growing arsenal of technologies, tools, and frameworks:
 
 ---
 
-## 🔍 What I Do
-
-🧩 I build and explore:
-
-- 🔐 **AI-powered safety & surveillance** apps  
-- 🧠 **Brain MRI-based stroke risk predictors**  
-- 📊 **Data-driven BI dashboards using Power BI + Python**  
-- 🧪 **NLP & Deep Learning tools for data enrichment**  
-- 🛠️ **Full-stack solutions using Flask, Django, and FastAPI**  
-- 🧾 **PDF parsers, image processors, and smart document agents**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEDHAPRIYAA-VOOGLE-007&show_icons=true&theme=github_dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEDHAPRIYAA-VOOGLE-007&theme=github-dark&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEDHAPRIYAA-VOOGLE-007&layout=compact&theme=github_dark&hide_border=true" width="48%">
-</p>
-
 ---
 
 ## 🎯 Current Mission
@@ -85,9 +63,8 @@ I’m here for it.
 ## 🌍 Connect With Me
 
 - 📫 Email: `vedhapriyaa.04@gmail.com`  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧠 [Portfolio](https://your-website.com) *(optional)*  
-- 🧵 [X / Twitter](https://twitter.com/your-handle) *(if any)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/s-vedhapriyaa-a254a8254/) 
+- 🧵 [X / Twitter](https://x.com/Vedhapriyaa004) 
 
 ---
 
