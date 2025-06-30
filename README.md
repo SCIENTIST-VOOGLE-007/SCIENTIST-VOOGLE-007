@@ -1,5 +1,3 @@
-# VEDHAPRIYAA-VOOGLE-007
-
 <h1 align="center">Hey, I'm Vedhapriyaa 👋</h1>
 
 <p align="center">
