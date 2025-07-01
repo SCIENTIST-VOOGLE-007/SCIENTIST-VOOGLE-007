@@ -11,14 +11,30 @@
 
 ---
 
-## 💡 About Me
+### 💡 About Me
 
-I’m Vedhapriyaa, a **passionate problem solver** and tech enthusiast who thrives on **solving real-world problems** through **creative ideation** and impactful engineering.  
-I don’t limit myself to one domain — if a problem is deep, urgent, or unsolved, I dive in. But areas like,
-**AI, Data Science, Robotics, Neuroscience, Linguistics**, and **Psychology** ignite a special curiosity in me. 🔍
+> 👋 Hey there! I'm **Vedhapriyaa** — a passionate problem solver driven by real-world challenges and the thrill of turning ideas into impact.
 
-🧠 I'm intrigued by the *why* behind things — whether it’s data behavior, human behavior, or intelligent systems.  
-💬 As a **polyglot**, I see patterns in both code and communication, and I love exploring both.
+💭 I thrive at the intersection of **creativity** and **engineering**, and I don’t confine myself to one domain — if a problem is deep, urgent, or unsolved, I dive in.
+
+#### ⚡ Fields that spark my curiosity:
+<p>
+  <img src="https://img.shields.io/badge/AI-%F0%9F%A4%96-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%93%88-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics-%F0%9F%A4%96-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neuroscience-%F0%9F%A7%AA-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linguistics-%F0%9F%8C%8D-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Psychology-%F0%9F%92%AD-pink?style=for-the-badge"/>
+</p>
+
+---
+
+🧠 I’m fascinated by the _why_ behind things — whether it’s  
+how **data behaves**, how **humans think**, or how **machines learn**.
+
+🌐 As a **polyglot**, I see patterns in both code and communication —  
+and I’m always exploring new ways to connect the two.
+
 
 ---
 
